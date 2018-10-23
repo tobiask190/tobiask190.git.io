@@ -2,8 +2,8 @@
   color: blue;
   text-decoration: none;
 }
-a img {
-  width=50%;
-  height=50%;
+img {
+  width=100%;
+  height=auto;
   border: 5px solid black;
 }

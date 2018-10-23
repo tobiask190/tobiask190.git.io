@@ -4,5 +4,6 @@
 }
 a img {
   width=50%;
+  height=50%;
   border-width: 5px solid black;
 }

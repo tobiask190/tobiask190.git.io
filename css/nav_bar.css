@@ -35,7 +35,7 @@ ul a:hover{
 
 a:link{
     color:black;
-    transition:color .3s ease-out, background .4s ease-in;
+    transition:color .4s ease-out, background .4s ease-in;
 }
 a:visited{
     color:black;

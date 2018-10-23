@@ -4,7 +4,8 @@
     padding:2%;
 }
 
-body{
+#box{
     font-family:Helvetica;
     background-color:rgb(48, 255, 89);
+    margin: 10%;
 }

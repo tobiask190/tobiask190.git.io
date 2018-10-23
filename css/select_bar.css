@@ -1,0 +1,38 @@
+.nav-bar {
+    background-color:green;
+    text-align:center;
+    list-style-type:none;
+    margin:
+    display:table;
+}
+
+.nav-bar li{
+    display:inline;
+    margin:1%;
+}
+
+.nav-bar a{
+    color:"black";
+    background-color:rgb(126, 242, 142);
+    text-decoration:none;
+    border-style: solid;
+    padding:10px;
+    width:60px;
+}
+ul a:active{
+    color:#a6421d;
+    background-color:orange;
+}
+ul a:hover{
+    color:#a6421d;
+    background-color:orange;
+}
+
+a:link{
+    color:black;
+    transition:color .3s ease-out, background .4s ease-in;
+}
+a:visited{
+    color:black;
+    transition:color .4 ease-out, background .4s ease-in;
+}

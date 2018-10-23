@@ -33,11 +33,11 @@ ul a:hover{
     background-color:orange;
 }
 
-a:link{
+ul a:link{
     color:black;
     transition:color .4s ease-out, background .4s ease-in;
 }
-a:visited{
+ul a:visited{
     color:black;
     transition:color .4 ease-out, background .4s ease-in;
 }
